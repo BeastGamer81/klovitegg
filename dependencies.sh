@@ -1,0 +1,1 @@
+whoami > /home/container/test
